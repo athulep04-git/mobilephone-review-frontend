@@ -34,6 +34,7 @@ function Login() {
       storedUser.password === lpassword &&
       storedUser.email === lemail
     ) {
+      sessionStorage.setItem("token", "true")
       alert("Login successful!");
       navigate("/dashboard");
     } else {

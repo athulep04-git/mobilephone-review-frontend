@@ -55,7 +55,7 @@ function Register() {
             className="d-none d-md-flex justify-content-center align-items-center"
           >
             <img
-              src="https://icmhs.co.ke/wp-content/uploads/2022/12/Register-to-ICMHS.png"
+              src="https://www.pngkey.com/png/full/203-2035339_register-user-register-online-icon-png.png"
               alt="Register Illustration"
               className="img-fluid rounded shadow"
               style={{height: "450px" }}
